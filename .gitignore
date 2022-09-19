@@ -2,7 +2,13 @@ venv/
 
 media/
 
+template_raw/
+staticfiles/
+
+
 **/__pycache__.py
 *.pyc
 
 db.sqlite3
+local_settings.py
+
